@@ -1,0 +1,66 @@
+ 
+<nav>
+{
+    background-color: antiquewhite;
+    top:0;
+}
+   nav li{
+    display:inline;
+    font-display: block-inline;
+    float:left;
+     margin-left: 40;
+     padding: 2;
+    font-size: 40;
+}
+.head{
+    border:20px;
+    padding-bottom: 40;
+    margin-bottom: 2;
+}
+li{
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 78;
+    color: brown;
+    margin-left: 200;
+    
+}
+img{
+    float:left;
+    border-radius: 100%;
+    border-style: circle;
+    height:200;
+}
+p{
+    text-align: center;
+}
+body{
+    height: 100%;
+    background-color: #F5B7B1 ;
+}
+#skills{
+    float:left;
+}
+#education{
+    float:right;
+}
+#f{
+    border:1;
+
+margin-bottom: 2;
+}
+#h4{
+    text-align: center;
+    margin-left: 100;
+}
+code{
+    margin-bottom: 00%;
+    margin-left: 200;
+    bottom:0;
+    left:0;
+    right:0;
+    text-align: center;
+}
